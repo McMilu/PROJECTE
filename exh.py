@@ -52,3 +52,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+#SOC LA PAULA SOC SUPER LLESTA I SUPER GUAPA MIREUME SOC LA PAULA HO PROMETO
